@@ -1,5 +1,3 @@
-package jp.ac.dendai.cps.ryo;
-
 public class Video {
 	String title;
 	String videoID;
