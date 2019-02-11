@@ -12,7 +12,7 @@ Steamで2週間以内にプレイしたゲームに関する動画を推薦す�
 ・チャンネルURL
 
 ## 使い方
-1. ControllerクラスのSteamAPIkeyとYouTubeAPIkeyを設定して実行
+1. ControllerクラスのsteamAPIkeyとyoutubeAPIkeyを設定して実行
 2. コンソールに表示された指示に従い情報を入力
 3. 表示された動画情報から気になるURLをコピペして動画を閲覧
 4. enjoy!
