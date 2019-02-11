@@ -1,5 +1,3 @@
-package jp.ac.dendai.cps.ryo;
-
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
